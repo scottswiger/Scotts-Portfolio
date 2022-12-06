@@ -1,0 +1,52 @@
+Russell Scott Swiger
+ 919-452-1324 | rsswiger3@gmail.com 
+EDUCATION
+University of North Carolina Wilmington – Wilmington NC				                          December 2019
+Bachelor of Science in Computer Science with Business Concentration
+Universitat de Valencia – Valencia, Spain                                                                                            June 2017- July 2017
+Studied Spanish and International Business abroad in Valencia, Spain 
+TECHNICAL SKILLS 
+Software: Microsoft Azure, Eclipse, JetBrains, VSCode, Git, Atlassian Suite, Jenkins, Postman
+Programming Languages and Skills: Python, Java, Selenium, Cypress, Javascript, Cucumber, Agile, Scrum, SAAS
+PROFESSIONAL EXPERIENCE
+Clinetic – Raleigh, NC                                                                                                                     June 2022 - October 2022
+Software Development Engineer in Test
+Create an automated test framework from the ground up for a startup company utilizing Cypress and JavaScript
+Automate existing and new test cases to ensure complete test coverage and catch regression defects 
+Optimize automation code for speed, reliability, and scalability
+Communicate with QA, Developers, and Product to develop sound test plans for manual and automated testing
+Veeva Systems – Raleigh, NC                                                                                                          October 2021 - June 2022
+QA Engineer
+Perform functional and integration testing on new products and features that enables customers to accelerate how clinical trials are managed and executed
+Automate test cases using Java, Cucumber, and Selenium to ensure defects don’t recur
+Utilize Jira and TestRail to create test plans and test cases for new features and functionality
+Work within an Agile development framework to execute QA testing within agreed-upon sprint boundaries
+Itron – Raleigh, NC                                                                                                                         May 2020 – October 2021
+Systems Test Engineer
+Develop software test plans, designs, objectives, and cases as a team utilizing Agile methodologies 
+Provide system verification and end-to-end integration support within a Hybrid Cloud environment 
+Consult with Engineers and Product Managers to develop end-to-end distributed intelligence solutions
+Utilize Microsoft Azure to implement DevOps practices in application lifecycle and management 
+nCino – Wilmington, NC								       January 2020 – March 2020
+QA Engineer Intern 
+Participate fully as a member of the automated testing Scrum development team
+Collaborate with product owners, developers, tech writers and designers to ensure customer satisfaction
+Write test cases to confirm sprint tickets acceptance criteria in Jira as part of a two-week sprint cycle 
+Execute functional, performance, and security tests based on business and product needs
+Lenovo – Morrisville, NC
+Software Engineering Intern                                                                                                          May 2019 – August 2019
+Utilize an Agile perspective to develop software solutions in order to automate daily processes
+Develop shipment tracking software using Java fundamentals, JavaFX, and multithreading processes to create an efficient and intuitive application  
+Implement Apache POI and RESTful API’s in order to retrieve shipment tracking data from respective couriers and return relevant information
+LEADERSHIP AND SERVICE
+UNCW Cyber Defense Club                                                                                           	           August 2016 – May 2019
+Officer
+Develop comprehension of VMware, utilize Kali Linux and pfSense to conduct network penetration tests
+Lead a team in accessing networks through encryption cracking, scripting and SQL injection
+Alpha Sigma Phi Fraternity                                                                                                           August 2015 – May 2019
+Philanthropy Chair, (January 2017 – August 2017)
+Organize all philanthropic events to benefit the fraternity’s main philanthropic partner
+Coordinate with other Greek organizations to create joint events that benefit multiple organizations
+PERSONAL PROJECTS
+Linux Server 										          September 2018 – Present 
+Host and maintain a globally accessible Linux server using OpenSSH through TCP/IP connection
