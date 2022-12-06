@@ -8,6 +8,7 @@
     <title>Scott's Portfolio</title>
 </head>
 <body>
+    <div class="container">
     <header>
         <h1>Portfolio</h1>
             <ul>
@@ -16,9 +17,10 @@
               <li><a href="#projects">My Projects</a></li>
             </ul>
     </header>
+    </div>
     <intro id="contact">
         <h2>Hi, i'm Scott. Welcome to my Portfolio!</h2>
-        <div style="float:right;">
+        <div style="float:right;" id="project_images">
             <img src="Assets/images/1602602381660.jpg" alt="Scott's Profile Picture" height=100% width=100%>
         </div>
          <div>
@@ -30,8 +32,8 @@
             </p>
         </div>
     </intro> 
-    <a name="About"></a>
-    <h2 id="about">About Me</h2>
+    <a name="About" class="about-me"></a>
+    <h2 class="container" id="about">About Me</h2>
     <main>
         <div>
             <p1>
@@ -41,29 +43,29 @@
         </div>
     </main>
     <a name="Projects"></a>
-    <h2 id="projects">My Projects</h2>
+    <h2 class="container" id="projects">My Projects</h2>
     <main>
         <div class="card">
-            <header>
+            <header class="container">
                  <h3>Challenge 01</h3>
              </header>
-             <div class="linkImg">
+             <div>
                  <a href="https://scottswiger.github.io/Horiseons-Overview-Page/" alt="First Challenge" id="project_images" target=_blank><img src="Assets/images/01-html-css-git-homework-demo.png" width=350px></a>
             </div>
         </div>
         <div class="card">
-            <header>
+            <header class="container">
                  <h3>Challenge 02</h3>
              </header>
-             <div class="linkImg">
+             <div>
                  <a href="https://scottswiger.github.io/Horiseons-Overview-Page/" alt="Second Challenge" id="project_images" target=_blank><img src="Assets/images/02-advanced-css-homework-demo.gif" width=350px></a>
             </div>
         </div>
         <div class="card">
-            <header>
+            <header class="container">
                  <h3>Challenge 03</h3>
              </header>
-             <div class="linkImg">
+             <div>
                  <a href="https://scottswiger.github.io/Horiseons-Overview-Page/" alt="Third Challenge" id="project_images" target=_blank><img src="Assets/images/bear.jpg" width=350px></a>
             </div>
     </main>
